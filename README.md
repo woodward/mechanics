@@ -1,6 +1,6 @@
 # Mechanics
 
-**TODO: Add description**
+Rigid body mechanics of physical systems (dynamical formulations, equations of motion, etc.).  Coming soon!
 
 ## Installation
 
